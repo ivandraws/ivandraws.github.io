@@ -6,4 +6,5 @@ Será também um treino de html básico e css. Creio que por agora não seja nec
 
 
 [Soluções Lógica e Álgebra de Boole](https://ivandraws.github.io/tests/logica-solucoes.html)
+
 [Portifólio (Apenas Inglês)](https://ivandraws.github.io/portifolio/en.html)
