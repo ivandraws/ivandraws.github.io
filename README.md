@@ -1,4 +1,4 @@
-# ivandraws.github.io, My Portifolio
+# ivandraws.github.io
 
 Teste do GitHub Pages para a criação de um portifólio online para o usuário correspondente.
 
